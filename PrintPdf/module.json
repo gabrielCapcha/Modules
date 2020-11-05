@@ -1,0 +1,13 @@
+{
+    "name": "PrintPdf",
+    "alias": "printpdf",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\PrintPdf\\Providers\\PrintPdfServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
